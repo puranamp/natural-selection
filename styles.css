@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(147, 46, 255);
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    background-color: rgb(170, 93, 252);
+    border: 1px;
+    margin-top: 50px;
+    border-radius: 15px;
+    box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.5);
+    transform: translateY(-5px);
+}
+
